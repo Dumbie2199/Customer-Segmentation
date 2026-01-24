@@ -69,6 +69,7 @@ Business Interpretation:
 High-value customers and key contributors to marketing ROI.
 
 9. Business Recomendations
+
 Cluster 0 – Budget-Constrained Families
 Recommended Strategy:
 - Cost-efficient engagement and selective targeting
